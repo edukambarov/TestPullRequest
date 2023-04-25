@@ -61,4 +61,4 @@ Cписок веток в репозитарии можно посмотреть
 **\*master**.
 
 Для переключения между ветками используется команда
-**git checkout branch_name** или **git switch branch_name**.
+**git checkout _branch_name_** или **git switch _branch_name_**.
