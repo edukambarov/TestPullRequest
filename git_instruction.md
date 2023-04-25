@@ -44,3 +44,6 @@ git config --global user.email ваша почта@example.com
 
 ## 8. Добавление изображений в инструкцию
 ![Git-Logo-1788C.png](Git-Logo-1788C.png)
+
+## 9. Игнорирование файлов
+
